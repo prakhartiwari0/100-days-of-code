@@ -11,7 +11,6 @@ And yeah one thing I forgot to mention is that I also created a YouTube channel 
 
 
 ### Day 0: August 28, 2022
-##### (delete me or comment me out)
 
 **Today's Progress**: I finally learnt CSS-Flexbox thoroughly with some deeper insights.
 
@@ -27,11 +26,11 @@ I was never interested in making projects by following the tutorials, I find it 
 
 **Real Self-Learning** is when you yourself read (documentation or some authentic resource), practice, experiment and code. You can watch _some_ YouTube videos from authentic Creators for clearing your concepts, for example Kevin Powell is a really great person to learn CSS from, he teaches the concepts so nicely and deeply, that if you learn from him about some concepts that you struggle in, you will feel satisfied. But whatever maybe the case, searching the GOOGLE, Reading Docs, Learning from Stackoverflow, and other authentic websites, articles, GitHub, and most importantly, practicing and building stuff on your own is the best way to learn coding/webdev. 
 
-
 **Link to work:** No Link as of Now
 
-### Day 0: September 01, 2022
-##### (delete me or comment me out)
+
+
+### Day 1: September 01, 2022
 
 **Today's Progress**: I have started JavaScript! I already know the basics of programming so it quite easy, but still, I am focusing on the basics. I learnt about Variables, Consts, Numbers, Operators.
 
