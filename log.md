@@ -34,4 +34,5 @@ I was never interested in making projects by following the tutorials, I find it 
 
 **Today's Progress**: I have started JavaScript! I already know the basics of programming so it quite easy, but still, I am focusing on the basics. I learnt about Variables, Consts, Numbers, Operators.
 
-**Thoughts:** Well, I need to sincerely devote the time that I give to learning this. And I also have to focus on my studies...Huh the life is soooo umm I don't know.... Amazing? Lost? Confusing? What is this world? Who am I? Why am I? Aaah soo weird but unique. Listening to the music of Kimi no Na wa, it is pretty amazing.
+**Thoughts:** Well, I need to sincerely devote the time that I give to learning this. And I also have to focus on my studies...Huh the life is soooo umm I don't know.... Amazing? Lost? Confusing? What is this world? Who am I? Why am I? Aaah soo weird but unique. Listening to the music of *Kimi no Na wa*, it is pretty amazing. 
+Btw I have successfully wasted three days into just being confused lost and kinda f\*cked up for nothing. HUH, I am just going through this teenage somehow, really difficult but I am enjoying too! New life experiences, feeling of starting out everything and imagining the future life ahead, so many thinigs to do! I Hope life will be a great journey...
