@@ -10,7 +10,7 @@ And of course, the super end goal in WebDev is to learn **Full Stack Web Develop
 And yeah one thing I forgot to mention is that I also created a YouTube channel with a unique name and style. I will be working on that to share and teach what I am learning so that I could help people in need, and also make myself better by teaching the concepts. Will share the name after I have achieved some milestones 😉
 
 
-### Day 0: August 28, 2022
+### Day 0: Sunday, August 28, 2022
 
 **Today's Progress**: I finally learnt CSS-Flexbox thoroughly with some deeper insights.
 
@@ -30,7 +30,7 @@ I was never interested in making projects by following the tutorials, I find it 
 
 
 
-### Day 1: September 01, 2022
+### Day 1: Thursday, September 01, 2022
 
 **Today's Progress**: I have started JavaScript! I already know the basics of programming so it quite easy, but still, I am focusing on the basics. I learnt about Variables, Consts, Numbers, Operators.
 
