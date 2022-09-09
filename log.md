@@ -36,3 +36,13 @@ I was never interested in making projects by following the tutorials, I find it 
 
 **Thoughts:** Well, I need to sincerely devote the time that I give to learning this. And I also have to focus on my studies...Huh the life is soooo umm I don't know.... Amazing? Lost? Confusing? What is this world? Who am I? Why am I? Aaah soo weird but unique. Listening to the music of *Kimi no Na wa*, it is pretty amazing. 
 Btw I have successfully wasted three days into just being confused lost and kinda f\*cked up for nothing. HUH, I am just going through this teenage somehow, really difficult but I am enjoying too! New life experiences, feeling of starting out everything and imagining the future life ahead, so many thinigs to do! I Hope life will be a great journey...
+
+
+
+### Week 1: Friday, September 09, 2022
+
+**Progress**: Learnt about JS Strings, String Methods, Conditional Statements, Comparisons, Logical Operators, and how to regret for your wasted time.
+
+**Thoughts**: I have wasted a lot of time this week, and I have promised myself not to repeat this ever again! Well, I am participating in a hackathon, actually two 😅at the same time, but working for only one, HackOdissa 2.0. I am very new to all this and wasn't having any knowledge of what happens in hackathons. I created a team, and we are working on a project. At least I am starting my journey by experimenting and exploring things myself. The biggest problem I am currently facing is inability to manage time. I haven't been studying for more than a month! But how to manage time and be consistent is a really tough task for me. I am gonna make some changs in my environment, mindset, routine, basically my personal life to develop!
+
+And yeah you might have noticed, I will be updating this log on weekly basis, and also tweet on weekly basis, because doing it everyday is quite a hassle for me.
