@@ -46,3 +46,12 @@ Btw I have successfully wasted three days into just being confused lost and kind
 **Thoughts**: I have wasted a lot of time this week, and I have promised myself not to repeat this ever again! Well, I am participating in a hackathon, actually two 😅at the same time, but working for only one, HackOdissa 2.0. I am very new to all this and wasn't having any knowledge of what happens in hackathons. I created a team, and we are working on a project. At least I am starting my journey by experimenting and exploring things myself. The biggest problem I am currently facing is inability to manage time. I haven't been studying for more than a month! But how to manage time and be consistent is a really tough task for me. I am gonna make some changs in my environment, mindset, routine, basically my personal life to develop!
 
 And yeah you might have noticed, I will be updating this log on weekly basis, and also tweet on weekly basis, because doing it everyday is quite a hassle for me.
+
+
+
+
+### Week 2: Friday, September 16, 2022
+
+**Progress**: Well, I participated in hackathon, and wasted a lot of time here and there.
+
+**Thoughts**: I need to improve a _lot_.
