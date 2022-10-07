@@ -55,3 +55,9 @@ And yeah you might have noticed, I will be updating this log on weekly basis, an
 **Progress**: Well, I participated in hackathon, and wasted a lot of time here and there.
 
 **Thoughts**: I need to improve a _lot_.
+
+### Week 5: Friday, October 8, 2022
+
+**Progress**: I learnt Javascript Fundamentals: Variables, Data Types, Numbers & Operators, Strings, Conditionals. And Contributed to Open source projects, participating in HacktoberFest 2022.
+
+**Thoughts**: Well, 3 week have past since week 2, and my life has literally took a big turn, completely changing everything. I have wasted a lot of time, and was not consistent mostly because of myself, my inability to self-control,and my life is no less in traumatizing me...
