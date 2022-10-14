@@ -56,8 +56,18 @@ And yeah you might have noticed, I will be updating this log on weekly basis, an
 
 **Thoughts**: I need to improve a _lot_.
 
+
+
 ### Week 5: Friday, October 8, 2022
 
 **Progress**: I learnt Javascript Fundamentals: Variables, Data Types, Numbers & Operators, Strings, Conditionals. And Contributed to Open source projects, participating in HacktoberFest 2022.
 
 **Thoughts**: Well, 3 week have past since week 2, and my life has literally took a big turn, completely changing everything. I have wasted a lot of time, and was not consistent mostly because of myself, my inability to self-control,and my life is no less in traumatizing me...
+
+
+
+### Week 6: Friday, October 14, 2022
+
+**Progress**: Nothing, Like not literally nothing, but if I talk about learning, near to zero. I have been working on content creation, active online presence and networking. And yeah btw, I have completed the hacktoberfest 2022, all the 4 PRs accepted.
+
+**Thoughts**: See I know what I have to do, I just need to do it.
